@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 63bf761d498dd17429a9b25a4da18839
+timeCreated: 1487370838
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Casual_02a___Look_At_Right
+    100002: Casual_02a___Look_At_Right_1
+    100004: Casual_02a___Look_At_Right_2
+    100006: Casual_02a___Look_At_Right_3
+    100008: Casual_02a___Look_At_Right_4
+    100010: Casual_02a___Look_At_Right_5
+    100012: Casual_02a___Look_At_Right_6
+    100014: Casual_02a___Look_At_Right_7
+    100016: CINEMA_4D_Editor
+    100018: human
+    100020: //RootNode
+    400000: Casual_02a___Look_At_Right
+    400002: Casual_02a___Look_At_Right_1
+    400004: Casual_02a___Look_At_Right_2
+    400006: Casual_02a___Look_At_Right_3
+    400008: Casual_02a___Look_At_Right_4
+    400010: Casual_02a___Look_At_Right_5
+    400012: Casual_02a___Look_At_Right_6
+    400014: Casual_02a___Look_At_Right_7
+    400016: CINEMA_4D_Editor
+    400018: human
+    400020: //RootNode
+    2300000: Casual_02a___Look_At_Right
+    2300002: Casual_02a___Look_At_Right_1
+    2300004: Casual_02a___Look_At_Right_2
+    2300006: Casual_02a___Look_At_Right_3
+    2300008: Casual_02a___Look_At_Right_4
+    2300010: Casual_02a___Look_At_Right_5
+    2300012: Casual_02a___Look_At_Right_6
+    2300014: Casual_02a___Look_At_Right_7
+    3300000: Casual_02a___Look_At_Right
+    3300002: Casual_02a___Look_At_Right_1
+    3300004: Casual_02a___Look_At_Right_2
+    3300006: Casual_02a___Look_At_Right_3
+    3300008: Casual_02a___Look_At_Right_4
+    3300010: Casual_02a___Look_At_Right_5
+    3300012: Casual_02a___Look_At_Right_6
+    3300014: Casual_02a___Look_At_Right_7
+    4300000: Casual_02a___Look_At_Right
+    4300002: Casual_02a___Look_At_Right_2
+    4300004: Casual_02a___Look_At_Right_3
+    4300006: Casual_02a___Look_At_Right_4
+    4300008: Casual_02a___Look_At_Right_5
+    4300010: Casual_02a___Look_At_Right_6
+    4300012: Casual_02a___Look_At_Right_1
+    4300014: Casual_02a___Look_At_Right_7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
