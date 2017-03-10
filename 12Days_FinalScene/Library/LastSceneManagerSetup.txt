@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/12Days_FinalScene.unity
+- path: Assets/12Days/Scenes/12Days_Final.unity
   isLoaded: 1
   isActive: 1
