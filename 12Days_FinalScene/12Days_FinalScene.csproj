@@ -163,6 +163,7 @@
     <Compile Include="Assets\HTC.UnityPlugin\ViveInputUtility\Scripts\ViveRole\DeviceRole.cs" />
     <Compile Include="Assets\HTC.UnityPlugin\ViveInputUtility\Scripts\ViveRole\HandRole.cs" />
     <Compile Include="Assets\HTC.UnityPlugin\ViveInputUtility\Scripts\ViveRole\ViveRole.cs" />
+    <Compile Include="Assets\MaterialDisappear.cs" />
     <Compile Include="Assets\PersonAction.cs" />
     <Compile Include="Assets\SciFi level 2\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
     <Compile Include="Assets\SciFi level 2\Standard Assets\Image Effects (Pro Only)\BlurEffect.cs" />
