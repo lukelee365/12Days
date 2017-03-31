@@ -14,7 +14,7 @@ public class ChangeText : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        Debug.Log(CountDownTime.countdownTime.ToString());
+      //  Debug.Log(CountDownTime.countdownTime.ToString());
         textCountDown.text = CountDownTime.countdownTime.ToString() + "s !";
     }
 }

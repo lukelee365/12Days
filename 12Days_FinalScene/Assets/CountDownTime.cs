@@ -15,7 +15,10 @@ public class CountDownTime : MonoBehaviour
 
     private void CountDown()
     {
-        countdownTime--;
+		if (countdownTime >= 1)
+		{
+			countdownTime--;
+		}
     }
 
     private void Quit()
